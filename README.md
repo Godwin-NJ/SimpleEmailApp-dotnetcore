@@ -1,0 +1,1 @@
+- Used https://ethereal.email/ for Email account Setup 
